@@ -1,7 +1,7 @@
 # I´m Timon
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TransFromus&show_icons=true&layout=compact&theme=transparent" />
+  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=TransFromus&show_icons=true&layout=compact&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TransFromus&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TransFromus&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
